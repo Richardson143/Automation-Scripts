@@ -1,3 +1,3 @@
 # Automation-Scripts
 
- Usage (Default): python -m chromegpt -t "{your request}"
+ Usage (Default): python -m richard -t "{your request}"
