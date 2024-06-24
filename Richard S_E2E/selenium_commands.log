@@ -1,8 +1,1 @@
-Visited URL: https://www.amazon.com
-ActionChains Clicked on element: id: f.19ADC8035B1B094CF1D0C6962662333F.d.724B74614EF52E6AC8DB83AB403C81C8.e.31, tag_name: a, text: Try different image
-ActionChains Clicked on element: id: f.19ADC8035B1B094CF1D0C6962662333F.d.78B74884351BC67FBE4B918E38C27F91.e.68, tag_name: a, text: Try different image
-Sending keys ['\ue009a'] to element located by xpath='//textarea[@name='field-keywords'] | //input[@name='field-keywords']'
-Sending keys ['Keys.END'] to element located by xpath='//textarea[@name='field-keywords'] | //input[@name='field-keywords']'
-Sending keys ['Iphone15pro max'] to element located by xpath='//textarea[@name='field-keywords'] | //input[@name='field-keywords']'
-Sending keys ['Keys.ENTER'] to element located by xpath='//textarea[@name='field-keywords'] | //input[@name='field-keywords']'
-ActionChains Clicked on element: id: f.19ADC8035B1B094CF1D0C6962662333F.d.7A9E7915B5B1DB3B4405C645938BCF53.e.898, tag_name: button, text: Add to cart
+
